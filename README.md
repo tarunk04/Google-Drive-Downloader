@@ -1,6 +1,5 @@
 # Google-Drive-Downloader
-Download any files directly to the google drive. It uses Google Colab to download files. A lot of times this happens that requires to store files to the Drive, but to do that first file is downloaded and then uploaded. This becomes difficult when the file size is large. 
-This method solvessolves the issue by directly downloading the file to drive.
+Download any files directly to the google drive. It uses Google Colab to download files. If you need to save the files from some website to drive then you have to download it and then uplaod it. This becomes very difficult when the file size is too large. This method solves the issue by directly downloading the file to drive, also at very high speed.
 
 # Setup:
 * Open [Google Colab](https://colab.research.google.com/notebooks).
